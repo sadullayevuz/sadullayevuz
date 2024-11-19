@@ -37,15 +37,6 @@ I'm a **Python developer** passionate about building amazing applications and ex
 
 ---
 
-## 🔗 Connect with Me
-
-<p align="center">
-  <a href="https://github.com/sadullayevuz"><img src="https://img.shields.io/github/followers/USERNAME?label=Follow%20Me&style=social"></a>
-  <a href="https://instagram.com/sadullayev.729"><img src="https://img.shields.io/badge/Instagram-Follow%20Me-blue?logo=instagram"></a>
-</p>
-
----
-
 ### 🚀 Profile Views
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SadullayevUz&color=brightgreen" alt="Profile Views">
