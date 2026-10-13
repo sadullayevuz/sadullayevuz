@@ -13,18 +13,6 @@
 
 <br/>
 
-## 🌱 About me
-
-I'm **Jahonbek**, a developer from Uzbekistan. I design and ship whole products: the API, the web app, the infrastructure and the AI on top.
-
-- 📍 Based in **Gulistan, Uzbekistan**
-- 🛠 Building web apps, APIs, bots and AI agents
-- 🌱 One of my projects: **[Greenbook](https://greenbook.gg)**, a Digital SAT preparation platform
-- ⚡ Interested in fast interfaces, clean APIs and products people actually use every day
-- 🌍 Languages: Uzbek · Russian · English
-
-<br/>
-
 ## 🧰 Tech stack
 
 <table>
@@ -60,19 +48,7 @@ I'm **Jahonbek**, a developer from Uzbekistan. I design and ship whole products:
 </tr>
 </table>
 
-<sub>Also used in Greenbook: SQLAlchemy · Alembic · Pydantic · Framer Motion · KaTeX · Telegram Bot API · S3 storage · Gemini API</sub>
-
-<br/>
-
-## 🚀 Project
-
-<div align="center">
-
-<a href="https://github.com/sadullayevuz/greenbook">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadullayevuz&repo=greenbook&theme=transparent&hide_border=true&title_color=039B5E&icon_color=039B5E&text_color=8B9A92&show_owner=true" alt="Greenbook" />
-</a>
-
-</div>
+<sub>Also: SQLAlchemy · Alembic · Pydantic · Framer Motion · KaTeX · Telegram Bot API · S3 storage · Gemini API</sub>
 
 <br/>
 
