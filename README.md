@@ -1,13 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:039B5E,100:0B1F17&text=Jahonbek%20Sadullayev&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=Full-stack%20developer%20%C2%B7%20Founder%20of%20Greenbook&descSize=18&descAlignY=58&animation=fadeIn" alt="Jahonbek Sadullayev" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:039B5E,100:0B1F17&text=Jahonbek%20Sadullayev&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=Full-stack%20developer%20%C2%B7%20Gulistan%2C%20Uzbekistan&descSize=18&descAlignY=58&animation=fadeIn" alt="Jahonbek Sadullayev" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3200&pause=1000&color=039B5E&center=true&vCenter=true&width=620&lines=I+build+products+end+to+end;FastAPI+%C2%B7+React+%C2%B7+Next.js;Now+building+Greenbook+%E2%80%94+Digital+SAT+prep;AI-powered+learning+that+actually+adapts" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3200&pause=1000&color=039B5E&center=true&vCenter=true&width=620&lines=I+build+products+end+to+end;FastAPI+%C2%B7+React+%C2%B7+Next.js;APIs%2C+web+apps+and+AI+agents;Clean+code%2C+fast+interfaces" alt="Typing intro" />
 
 <br/>
 
-<a href="https://greenbook.gg"><img src="https://img.shields.io/badge/greenbook.gg-039B5E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Greenbook" /></a>
-<img src="https://img.shields.io/badge/Tashkent%2C_Uzbekistan-0B1F17?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+<img src="https://img.shields.io/badge/Gulistan%2C_Uzbekistan-0B1F17?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 <img src="https://img.shields.io/github/followers/sadullayevuz?style=for-the-badge&logo=github&color=0B1F17&labelColor=039B5E" alt="Followers" />
 <img src="https://komarev.com/ghpvc/?username=sadullayevuz&style=for-the-badge&color=039B5E&label=PROFILE+VIEWS" alt="Views" />
 
@@ -19,8 +18,9 @@
 
 I'm **Jahonbek**, a developer from Uzbekistan. I design and ship whole products: the API, the web app, the infrastructure and the AI on top.
 
-- 🚀 Building **[Greenbook](https://greenbook.gg)**, a Digital SAT preparation platform
-- 🤖 Teaching an AI tutor to act as an **agent**, not only a chatbot
+- 📍 Based in **Gulistan, Uzbekistan**
+- 🛠 Building web apps, APIs, bots and AI agents
+- 🌱 One of my projects: **[Greenbook](https://greenbook.gg)**, a Digital SAT preparation platform
 - ⚡ Interested in fast interfaces, clean APIs and products people actually use every day
 - 🌍 Languages: Uzbek · Russian · English
 
@@ -65,7 +65,7 @@ I'm **Jahonbek**, a developer from Uzbekistan. I design and ship whole products:
 
 <br/>
 
-## 🚀 Featured project
+## 🚀 Project
 
 <div align="center">
 
@@ -94,7 +94,6 @@ I'm **Jahonbek**, a developer from Uzbekistan. I design and ship whole products:
 
 <div align="center">
 
-<a href="https://greenbook.gg"><img src="https://img.shields.io/badge/Website-039B5E?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="mailto:sadullayevjahonbek9@gmail.com"><img src="https://img.shields.io/badge/Email-0B1F17?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
