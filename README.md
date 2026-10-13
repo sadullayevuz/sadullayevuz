@@ -8,7 +8,6 @@
 
 <img src="https://img.shields.io/badge/Gulistan%2C_Uzbekistan-0B1F17?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 <img src="https://img.shields.io/github/followers/sadullayevuz?style=for-the-badge&logo=github&color=0B1F17&labelColor=039B5E" alt="Followers" />
-<img src="https://komarev.com/ghpvc/?username=sadullayevuz&style=for-the-badge&color=039B5E&label=PROFILE+VIEWS" alt="Views" />
 
 </div>
 
