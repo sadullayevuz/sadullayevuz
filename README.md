@@ -1,7 +1,6 @@
 <div align="center">
 
-<img align="top" src="./assets/banner.gif" width="100%" alt="" /><br/>
-<img align="top" src="./assets/header.svg" width="100%" alt="Jahonbek Sadullayev" />
+<img src="./assets/banner.gif" width="100%" alt="Jahonbek Sadullayev" />
 
 <br/><br/>
 
