@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 736 150" width="736" height="150" role="img" aria-label="footer">
+<style>
+.pt{animation:fall linear infinite}
+@keyframes fall{0%{transform:translate(var(--x),-20px) rotate(0)}100%{transform:translate(calc(var(--x) + var(--dx)),var(--h)) rotate(400deg)}}
+.tw{transform-box:fill-box;transform-origin:center;animation:tw 3s ease-in-out infinite}
+@keyframes tw{0%,100%{opacity:.2;transform:scale(.5)}50%{opacity:1;transform:scale(1.15) rotate(45deg)}}
+.rise{animation:rise 1.1s cubic-bezier(.23,1,.32,1) both}
+@keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+.pulse{animation:pulse 2s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+@keyframes pulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.45;transform:scale(1.5)}}
+.sweep{animation:sweep 4s ease-in-out infinite}
+@keyframes sweep{0%{transform:translateX(-260px)}100%{transform:translateX(760px)}}
+.wv1{animation:wv 14s linear infinite}.wv2{animation:wv 22s linear infinite reverse}.wv3{animation:wv 32s linear infinite}
+@keyframes wv{from{transform:translateX(0)}to{transform:translateX(-736px)}}
+.flt{animation:flt 5s ease-in-out infinite}
+@keyframes flt{0%,100%{transform:translateY(0)}50%{transform:translateY(-4px)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style><defs>
+<linearGradient id="nm" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff9ecb"><animate attributeName="stop-color" values="#ff9ecb;#b8a9ff;#ff9ecb" dur="6s" repeatCount="indefinite"/></stop><stop offset="1" stop-color="#b8a9ff"><animate attributeName="stop-color" values="#b8a9ff;#ff9ecb;#b8a9ff" dur="6s" repeatCount="indefinite"/></stop></linearGradient>
+<linearGradient id="ln" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff4d6d"/><stop offset=".5" stop-color="#ff9ecb"/><stop offset="1" stop-color="#b8a9ff" stop-opacity="0"/></linearGradient>
+<linearGradient id="sw" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".85"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<linearGradient id="topfade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#14091f"/><stop offset="1" stop-color="#14091f" stop-opacity="0"/></linearGradient>
+<filter id="gl"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="bl"><feGaussianBlur stdDeviation="30"/></filter>
+</defs>
+<clipPath id="fc"><path d="M0 0H736V128Q736 150 714 150H22Q0 150 0 128Z"/></clipPath>
+<g clip-path="url(#fc)">
+<rect width="736" height="150" fill="#14091f"/>
+<g class="pt" style="--x:110px;--dx:-56px;--h:180px;animation-duration:10.8s;animation-delay:-9.1s"><path d="M0 0 C7 -9 18 -4 13 7 C8 16 -3 11 0 0Z" fill="#ffc2dc" opacity=".8" transform="scale(0.87)"/></g><g class="pt" style="--x:0px;--dx:36px;--h:180px;animation-duration:9.5s;animation-delay:-8.8s"><path d="M0 0 C7 -9 18 -4 13 7 C8 16 -3 11 0 0Z" fill="#ffc2dc" opacity=".8" transform="scale(0.64)"/></g><g class="pt" style="--x:406px;--dx:112px;--h:180px;animation-duration:10.9s;animation-delay:-6.2s"><path d="M0 0 C7 -9 18 -4 13 7 C8 16 -3 11 0 0Z" fill="#ff4d6d" opacity=".8" transform="scale(0.74)"/></g><g class="pt" style="--x:344px;--dx:-30px;--h:180px;animation-duration:8.6s;animation-delay:-2.9s"><path d="M0 0 C7 -9 18 -4 13 7 C8 16 -3 11 0 0Z" fill="#ff9ecb" opacity=".8" transform="scale(1.27)"/></g><g class="pt" style="--x:252px;--dx:64px;--h:180px;animation-duration:12.9s;animation-delay:-0.1s"><path d="M0 0 C7 -9 18 -4 13 7 C8 16 -3 11 0 0Z" fill="#ff9ecb" opacity=".8" transform="scale(0.93)"/></g><g class="pt" style="--x:698px;--dx:-27px;--h:180px;animation-duration:11.9s;animation-delay:-5.3s"><path d="M0 0 C7 -9 18 -4 13 7 C8 16 -3 11 0 0Z" fill="#ff4d6d" opacity=".8" transform="scale(0.73)"/></g><g class="pt" style="--x:659px;--dx:-60px;--h:180px;animation-duration:10.7s;animation-delay:-4.2s"><path d="M0 0 C7 -9 18 -4 13 7 C8 16 -3 11 0 0Z" fill="#ff4d6d" opacity=".8" transform="scale(1.29)"/></g>
+<g class="wv3" opacity="0.9"><path d="M0 95 Q92 81 184 95 T368 95 Q460 81 552 95 T736 95 Q828 81 920 95 T1104 95 V150 H0Z" fill="#3a1d5c"/></g>
+<g class="wv2" opacity="0.85"><path d="M0 108 Q92 96 184 108 T368 108 Q460 96 552 108 T736 108 Q828 96 920 108 T1104 108 V150 H0Z" fill="#6b2a7a"/></g>
+<g class="wv1" opacity="0.75"><path d="M0 122 Q92 112 184 122 T368 122 Q460 112 552 122 T736 122 Q828 112 920 122 T1104 122 V150 H0Z" fill="#c2305a"/></g>
+<rect y="132" width="736" height="18" fill="#14091f" opacity=".55"/>
+<text x="368.0" y="58" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-weight="600" font-size="15" fill="#ff9ecb" letter-spacing="4" opacity=".9">THANKS FOR VISITING</text>
+<g class="flt"><path d="M368.0 82 c-5 -7 -16 -3 -10 6 l10 9 l10 -9 c6 -9 -5 -13 -10 -6Z" fill="#ff4d6d" transform="translate(0 -10)"/></g>
+<text x="368.0" y="142" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#efe9ff" opacity=".85" letter-spacing="1.5">Jahonbek Sadullayev · Gulistan, Uzbekistan</text>
+</g>
+</svg>
