@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Jahonbek Sadullayev" width="100%" />
+<img src="./assets/banner.gif" alt="Jahonbek Sadullayev" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=40&duration=2500&pause=1500&color=F472B6&center=true&vCenter=true&width=700&height=70&lines=Jahonbek+Sadullayev;Full-stack+developer" alt="Name" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=F472B6&center=true&vCenter=true&width=640&lines=Python+%C2%B7+FastAPI+%C2%B7+PostgreSQL;React+%C2%B7+Next.js+%C2%B7+TypeScript;APIs%2C+web+apps%2C+bots+and+AI+agents;Clean+code+%C2%B7+Fast+interfaces" alt="Typing intro" />
 
