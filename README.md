@@ -27,15 +27,6 @@
 
 <br/><br/>
 
-<img src="./assets/t-stats.svg" width="100%" alt="GitHub stats" />
-
-<br/><br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sadullayevuz&show_icons=true&hide_border=false&border_color=3A1D5C&border_radius=16&bg_color=14091F&title_color=FF9ECB&icon_color=FF4D6D&text_color=EFE9FF&ring_color=FF4D6D&count_private=true" alt="Stats" />
-<img width="49%" src="https://streak-stats.demolab.com?user=sadullayevuz&hide_border=false&border_radius=16&stroke=3A1D5C&background=14091F&ring=FF4D6D&fire=FF4D6D&currStreakLabel=FF9ECB&sideLabels=B8A9FF&currStreakNum=EFE9FF&sideNums=EFE9FF&dates=B8A9FF" alt="Streak" />
-
-<br/>
-
 <img src="./assets/t-connect.svg" width="100%" alt="Contact" />
 
 <br/><br/>
