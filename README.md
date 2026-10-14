@@ -31,8 +31,8 @@
 
 <br/><br/>
 
-<a href="https://t.me/lv3dsg"><img src="https://img.shields.io/badge/Telegram-%40lv3dsg-1C0F2E?style=for-the-badge&logo=telegram&logoColor=FF9ECB&labelColor=1C0F2E" alt="Telegram" /></a>
-<a href="https://instagram.com/sodikovich_zzz"><img src="https://img.shields.io/badge/Instagram-%40sodikovich__zzz-1C0F2E?style=for-the-badge&logo=instagram&logoColor=FF4D6D&labelColor=1C0F2E" alt="Instagram" /></a>
+<a href="https://t.me/lv3dsg"><img src="https://img.shields.io/badge/Telegram-%40lv3dsg-1C0F2E?style=for-the-badge&logo=telegram&logoColor=FF9ECB&labelColor=1C0F2E" alt="Telegram" /></a><br/>
+<a href="https://instagram.com/sodikovich_zzz"><img src="https://img.shields.io/badge/Instagram-%40sodikovich__zzz-1C0F2E?style=for-the-badge&logo=instagram&logoColor=FF4D6D&labelColor=1C0F2E" alt="Instagram" /></a><br/>
 <a href="mailto:sadullayevjahonbek9@gmail.com"><img src="https://img.shields.io/badge/sadullayevjahonbek9%40gmail.com-1C0F2E?style=for-the-badge&logo=gmail&logoColor=FF4D6D&labelColor=1C0F2E" alt="Email" /></a>
 
 <br/><br/>
